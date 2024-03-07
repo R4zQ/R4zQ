@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![github-header-image](https://github.com/R4zQ/R4zQ/assets/79104747/9f173c31-0baa-40ea-8026-0794247716f7)"  />
+  <img height="150" src="https://github.com/R4zQ/R4zQ/assets/79104747/9f173c31-0baa-40ea-8026-0794247716f7"  />
 </div>
 
 ###
